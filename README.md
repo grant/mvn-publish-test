@@ -3,7 +3,8 @@
 > Testing how to build and publish a java project.
 
 The best way of distributing a Java library is releasing a jar and uploading it to GitHub as a release.
-#
+
+## Steps
 1. Package jar
 2. Upload jar
 3. Use jar in different project
